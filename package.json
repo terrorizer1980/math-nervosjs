@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@nervosnetwork/ckb-sdk-core": "^0.30.0",
-    "bip32": "^2.0.5",
+    "bip32": "^3.0.0",
     "bip39": "^3.0.2",
     "core-js": "^3.6.4",
     "vue": "^2.6.11",
